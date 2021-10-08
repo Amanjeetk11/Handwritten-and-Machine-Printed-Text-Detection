@@ -1,7 +1,7 @@
 **MINI-PROJECT
 
 
-*Faculty Name-*"Dr. Shiv Ram Dubey"
+*Faculty Name-*"Dr. Pavan Chakraborty"
 
 ---
 ## Project name
