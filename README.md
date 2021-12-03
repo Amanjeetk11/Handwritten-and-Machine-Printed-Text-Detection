@@ -23,8 +23,9 @@ Group No- 14
     <li>
       <a href="#model-predictions">Model Predictions</a>
       <ul>
+         <li><a href="#MIXED INPUT">MIXED INPUT</a></li>
         <li><a href="#CLASSIFIED OUTPUT">CLASSIFIED OUTPUT</a></li>
-        <li><a href="#MIXED INPUT">MIXED INPUT</a></li>
+       
       </ul>
     </li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
