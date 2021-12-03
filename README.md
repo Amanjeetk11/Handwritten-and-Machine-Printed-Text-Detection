@@ -157,24 +157,12 @@ Now system will auto show status of crops ,if disease detected it will shoe name
 <!-- Usage -->
 ## Model Predictions
 
- > ### When no disease detected on plant
+ > ### CLASSIFIED OUTPUT
   
- <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant.png"  height="370" /> <br>
+ <br> <img src="https://github.com/Amanjeetk11/mini-project/blob/main/Screen-Shots/Classified_output.jpeg"  height="370" /> <br>
   
- > ### When no disease detected on plant leafs
-<br>  <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/healthy_plant_leaf.png"  height="370" /> <br>
-  
- > ### When disease detected on plant
- <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_palnt.png"  height="370" /> <br>
-  
- > ### When disease detected on plant leafs
- <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_plant_leaf.png"  height="370" /> <br>
- 
- > ###    Disease cure recommendations
- <br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/dis_rec.png"  height="370" /> <br>
-   
-   
 
+ 
 
 <!-- Acknowledgements -->
 ## Acknowledgements
