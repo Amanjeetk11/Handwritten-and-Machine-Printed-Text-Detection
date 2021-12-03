@@ -24,6 +24,7 @@ Group No- 14
       <a href="#model-predictions">Model Predictions</a>
       <ul>
         <li><a href="#CLASSIFIED OUTPUT">CLASSIFIED OUTPUT</a></li>
+        <li><a href="#MIXED INPUT">MIXED INPUT</a></li>
       </ul>
     </li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -152,7 +153,10 @@ The system will analyse uploaded picture and give output with classification pri
 
 <!-- Usage -->
 ## Model Predictions
-
+ >### MIXEDED INPUT
+ > <br> <img src="https://github.com/Amanjeetk11/mini-project/blob/main/Screen-Shots/Mixed_input.jpeg"  height="370" /> 
+ > <br>
+  
  > ### CLASSIFIED OUTPUT
   
  <br> <img src="https://github.com/Amanjeetk11/mini-project/blob/main/Screen-Shots/Classified_output.jpeg"  height="370" /> <br>
