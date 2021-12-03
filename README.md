@@ -23,11 +23,7 @@ Group No- 14
     <li>
       <a href="#model-predictions">Model Predictions</a>
       <ul>
-        <li><a href="#when-no-disease-detected-on-plant">When no disease detected on plant</a></li>
-        <li><a href="#when-no-disease-detected-on-plant-leafs">When no disease detected on plant leafs</a></li>
-        <li><a href="#when-disease-detected-on-plant">When disease detected on plant</a></li>
-        <li><a href="#when-disease-detected-on-plant-leafs">When disease detected on plant leafs</a></li>
-        <li><a href="#Disease-cure-recommendations">Disease cure recommendations</a></li>
+        <li><a href="#CLASSIFIED OUTPUT">CLASSIFIED OUTPUT</a></li>
       </ul>
     </li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -145,13 +141,13 @@ Visit http://127.0.0.1:5000 to see your app in action
 <!-- Usage -->
 ## How to use
 1.Go through webpage link http://127.0.0.1:5000 
-<br> <img src="https://github.com/Amanjeetk11/ivp/blob/main/ss/landing_page.png"  height="370" />
+<br> <img src="https://github.com/Amanjeetk11/mini-project/blob/main/Screen-Shots/website.jpeg"  height="370" />
 
 2. Tap on choose file.
 3. Upload or click picture of crops.
 4. Click on predict
 
-Now system will auto show status of crops ,if disease detected it will shoe name and their cure.
+The system will analyse uploaded picture and give output with classification printed texts (show in blue color), handwritten texts (show in green color) and non-texts (show in yellow color).
 
 
 <!-- Usage -->
